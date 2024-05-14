@@ -2,7 +2,7 @@
 
 ## I. Giới thiệu
 
-Bài tập này nhằm mục đích thực hiện kiểm thử hiệu suất và tải trọng cho một ứng dụng web sử dụng công cụ Apache JMeter. Ứng dụng web được chọn là _[tên ứng dụng]_, và mục tiêu là đo lường và đánh giá hiệu suất của nó trong điều kiện tải trọng khác nhau.
+Bài tập này nhằm mục đích thực hiện kiểm thử hiệu suất và tải trọng cho một ứng dụng web sử dụng công cụ Apache JMeter. Ứng dụng web được chọn là Simplilearn, và mục tiêu là đo lường và đánh giá hiệu suất của nó trong điều kiện tải trọng khác nhau.
 
 ## II. Mục tiêu
 
@@ -33,4 +33,4 @@ Dựa trên kết quả kiểm thử, đánh giá hiệu suất của ứng dụ
 
 ## VI. Tóm lại
 
-Bằng cách sử dụng Apache JMeter, chúng tôi đã thực hiện thành công kiểm thử hiệu suất cho ứng dụng web \*[tên ứ
+Bằng cách sử dụng Apache JMeter, chúng tôi đã thực hiện thành công kiểm thử hiệu suất cho ứng dụng web Simplilearn
